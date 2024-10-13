@@ -1,0 +1,23 @@
+c m b v a b y z r a i g u e i x x r
+n k i f h v n x j f x e l j v a h f
+y f d n i e y a q a u i u n a b b o
+x k m r t z l c r x v b g h g v h c
+w r m o d l b l o c a a u h w m a b
+q l f t o t m u o m h y s n d m d j
+s q j v k j n r z w s b b c t p f l
+d e w n s o q e d z o c d i r u h j
+m u u c o m b u s s n r i s l i a q
+b v r k k j r z n v m o l g p r p u
+b u b p y t h o n r g f s d f h v t
+q o k f h n b c d o v c f y j l t u
+wordlist
+arch
+combus
+comsci
+fizzbuzz
+helloworld
+java
+javascript
+mint
+python
+ubuntu
